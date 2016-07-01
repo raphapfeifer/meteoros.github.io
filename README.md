@@ -1,2 +1,2 @@
-# meteoros.github.io
+# http//meteoros.github.io
 jogo dos meteoros
